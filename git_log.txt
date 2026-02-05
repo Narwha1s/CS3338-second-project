@@ -1,0 +1,45 @@
+commit adf04ded953d459ad0d6a50a180d179daf96c16d
+Merge: f4c6fec d2a1516
+Author: Narwha1s <narwhal2156@gmail.com>
+Date:   Thu Feb 5 14:20:21 2026 -0800
+
+    Resolved the merge conflict between the main and index-fix branches
+
+commit d2a151634f93b591b714433b6a93894d58eed007
+Author: Narwha1s <narwhal2156@gmail.com>
+Date:   Thu Feb 5 14:17:51 2026 -0800
+
+    Added my favorite movie to index.html
+
+commit f4c6fec351abcdfb864f693e943c4b5d63d3ea35
+Author: Narwha1s <narwhal2156@gmail.com>
+Date:   Thu Feb 5 14:16:21 2026 -0800
+
+    Added my favorite food to index.html
+
+commit 1f276cf6bcb4473c4186765a0b7b2806305a8b5a
+Author: Narwha1s <narwhal2156@gmail.com>
+Date:   Thu Feb 5 14:06:12 2026 -0800
+
+    Added a README file that describes the lab and what is expected
+
+commit afce71276597c96a60d1bae72b25fc23e7279f44
+Merge: 1d2bfc0 95ca6b6
+Author: Suijian Li <145610844+Narwha1s@users.noreply.github.com>
+Date:   Thu Feb 5 14:00:43 2026 -0800
+
+    Merge pull request #1 from Narwha1s/info-fill
+    
+    Filled in my personal information into index file
+
+commit 95ca6b67e0fbf8f6711c86f345a0d1af44d2a930
+Author: Narwha1s <narwhal2156@gmail.com>
+Date:   Thu Feb 5 13:52:33 2026 -0800
+
+    Filled in my personal information into index file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
